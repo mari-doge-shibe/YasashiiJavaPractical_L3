@@ -1,3 +1,5 @@
+package sample;
+
 import javafx.application.*;
 import javafx.stage.*;
 import javafx.scene.*;
